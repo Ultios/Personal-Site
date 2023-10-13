@@ -52,7 +52,8 @@ highlight_name: true
 first_name: Aulia
 email: aulia.r.bachtiar@gmail.com
 ---
-#About me
+# A﻿bout me
+
 Hello there, I'm Aulia Rahman, and I'm delighted to welcome you to my corner of the web 🎉
 
 I wear many hats in the world of transportation. I'm a data scientist, transport modeler, transport consultant, transport planner, software developer, and (wannabe) writer. This website serves as a window into my world of research and exploration. Here, you'll find a collection of my academic work, publications, and insights, along with plethora of other interest.
