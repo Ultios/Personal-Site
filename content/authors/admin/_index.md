@@ -6,8 +6,8 @@ bio: Exploring machine learning use cases in transportation and localization of
   transportation's various parameters.
 interests:
   - Transportation
-  - Computational Linguistics
-  - Information Retrieval
+  - Computer Science
+  - Geography
 social:
   - icon: envelope
     icon_pack: fas
