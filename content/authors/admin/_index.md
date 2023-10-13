@@ -1,7 +1,7 @@
 ---
 title: Aulia Rahman Bachtiar
 role: Transport Modeller
-avatar_filename: img-20230824-wa0010.jpeg
+avatar_filename: img-20230824-wa0010.jpg
 bio: My research interests include transportation modelling, machine learning
   use cases in transportation, localization of transportation parameter.
 interests:
