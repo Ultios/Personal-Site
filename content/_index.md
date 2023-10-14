@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title:
+title: Aulia Rahman
 date: 2022-10-24
 type: landing
 
@@ -15,17 +15,17 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
+        - name: Python
+          description: Intermediate
+          icon: python
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
+        - name: Mathemathical Programming
+          description: Beginner
+          icon: calculator
           icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
+        - name: GIS
+          description: Intermediate
+          icon: map
           icon_pack: fas
   - block: experience
     content:
@@ -39,27 +39,42 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+        - title: Lead Project Officer
+          company: Central Java and Yogyakarta National Road Implementation Center, Indonesian Ministry of Public Works and Housing
+          company_url: 'https://binamarga.pu.go.id/balai-jateng-diy/'
+          location: Middle Java Province and Special Region of Yogyakarta
+          date_start: '2023-03-01'
+          date_end: '2023-10-05'
           description: |2-
               Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
+              * Modelling traffic impact
+              * Proposing alternatives
+              * Cost benefit analysis
+              * Project reporting and presenting
+        - title: Project Officer
+          company: Central Java and Yogyakarta National Road Implementation Center, Indonesian Ministry of Public Works and Housing
+          company_url: 'https://binamarga.pu.go.id/balai-jateng-diy/'
+          location: Middle Java Province and Special Region of Yogyakarta
+          date_start: '2022-01-01'
+          date_end: '2022-12-31'
+          description: |2-
+              Responsibilities include:
+              * Modelling traffic impact
+              * Proposing alternatives
+              * Cost benefit analysis
+              * Project reporting and presenting
+        - title: Project Officer
+          company: Metropolis Department, Directorate General of Highway, Indonesian Ministry of Public Works and Housing
+          company_url: 'https://binamarga.pu.go.id/'
+          location: Metropolis region of Mataram, Yogyakarta, Tasikmalaya, Balikpapan and Samarinda
+          date_start: '2020-01-01'
           date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              Responsibilities include:
+              * Modelling traffic impact
+              * Planning sustainable road development of new capital city of Nusantara
+              * Infrastructure and accessibility planning for MotoGP's Mandalika International Circuit
+    
     design:
       columns: '2'
   - block: accomplishments
