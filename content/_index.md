@@ -15,8 +15,8 @@ sections:
     content:
       title: Skills
       items:
-        - name: Python
-          description: Intermediate
+        - name: Data Science
+          description: Beginner
           icon: python
           icon_pack: fab
         - name: Mathemathical Programming
