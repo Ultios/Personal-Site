@@ -23,8 +23,8 @@ publishDate: '2023-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: IOP Conference Series: Materials Science and Engineering
-publication_short: IOP Publishing
+publication: 'IOP Conference Series: Materials Science and Engineering'
+publication_short: 'IOP Publishing'
 
 abstract: Predictions of traffic volumes on road networks must be precise for transportation planning, and equilibrium trip assignment models based on the Volume Delay Function (VDF) are typically employed. In 1964, the U.S. Bureau of Public Roads (BPR) created a VDF widely used in many countries, including Indonesia. However, using capacity manuals from Western nations in Indonesia did not produce the desired results due to differences in traffic composition and driver behaviour. Using the Indonesian Highway Capacity Manual's macroscopic fundamental diagram, this paper aims to derive a more accurate VDF for Indonesia. This method enables the development of a VDF tailored to the unique traffic conditions in Indonesia. It can enhance the precision of traffic volume forecasts in the region. The BPR function parameters tends to overestimate travel time delay, making the road network model flow misestimated. This is presumably caused by traffic count survey inability to record the build-up of traffic flow in the urban network during peak traffic periods.
 
