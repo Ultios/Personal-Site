@@ -64,7 +64,7 @@ From time to time, I also share blog posts and other musings. If you'd like to c
 
 Currently I’m searching for PhD opportunities to develop my interest into meaningful research for the communities.
 
-I also manage my father’s small business from time to time, mostly on financial and strategic planning. I tried to apply my programming skills to create automated system for it with future application on Business Analytics to make more better informed and adaptive business decisions.
+I also manage my father’s small business part time, mostly on financial and strategic planning. I tried to apply my programming skills to create automated system for it with future application on Business Analytics to make more better informed and adaptive business decisions.
 
 You can find me across various platforms, including Twitter (now X), Instagram, Google Scholar, and GitHub. So, let's embark on this data-driven journey together!
 
