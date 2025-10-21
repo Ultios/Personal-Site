@@ -1,9 +1,8 @@
 ---
 title: Aulia Rahman Bachtiar
-role: Transport Modeller
+role: Doctoral Student in Civil Engineering
 avatar_filename: img-20230824-wa0010.jpg
-bio: Exploring machine learning use cases in transportation and localization of
-  transportation's various parameters.
+bio: Traffic estimation through the use of AI/ML techniques
 interests:
   - Transportation
   - Computer Science
@@ -31,10 +30,13 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Universitas Gadjah Mada
-    url: https://ugm.ac.id/en/
+  - name: Universitas of Tokyo
+    url: https://liis.t.u-tokyo.ac.jp/
 education:
   courses:
+    - course: Dr.Eng in Civil Engineering
+      institution: University of Tokyo
+      year: 2024-current
     - course: Ir. (Engineer) Profession Degree
       institution: Universitas Gadjah Mada
       year: 2023
@@ -50,21 +52,15 @@ status:
 last_name: Rahman
 highlight_name: true
 first_name: Aulia
-email: aulia.r.bachtiar@gmail.com
+email: aulia-r@g.ecc.u-tokyo.ac.jp
 ---
 Hello there, I'm Aulia Rahman, and I'm delighted to welcome you to my corner of the web 🎉
 
+I'm currently a Doctoral 2nd year student from Fukuda Lab, University of Tokyo.
+
 I wear many hats in the world of transportation. I'm a data scientist, transport modeler, transport consultant, transport planner, software developer, and (wannabe) writer. This website serves as a window into my world of research and exploration. Here, you'll find a collection of my academic work, publications, and insights, along with plethora of other interest.
 
-One of my passions is promoting reproducible research to tackle the barrier which restricts common people participation towards sustainable transportation planning. 
-
-I also specialise in localising various transportation parameters invented by developed countries through new (hopefully, easier) approach for mixed traffic flow behaviour commonly found in low middle income countries.
-
-From time to time, I also share blog posts and other musings. If you'd like to connect or discuss anything related to the fascinating world of data and transportation, feel free to reach out 🚀
-
-Currently I’m searching for PhD opportunities to develop my interest into meaningful research for the communities.
-
-I also manage my father’s small business part time, mostly on financial and strategic planning. I tried to apply my programming skills to create automated system for it with future application on Business Analytics to make more better informed and adaptive business decisions.
+I also manage my father’s small business part time, mostly on financial and strategic planning.
 
 You can find me across various platforms, including Twitter (now X), Instagram, Google Scholar, and GitHub. So, let's embark on this data-driven journey together!
 
