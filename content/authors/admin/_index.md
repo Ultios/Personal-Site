@@ -30,7 +30,7 @@ social:
     icon_pack: ai
     link: uploads/resume.pdf
 organizations:
-  - name: Universitas of Tokyo
+  - name: University of Tokyo
     url: https://liis.t.u-tokyo.ac.jp/
 education:
   courses:
